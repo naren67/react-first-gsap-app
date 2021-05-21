@@ -1,0 +1,8 @@
+first run
+
+npm install gsap
+
+also import tweenlite and timeline
+
+url
+https://www.youtube.com/watch?v=d2kXe3QrHl8
